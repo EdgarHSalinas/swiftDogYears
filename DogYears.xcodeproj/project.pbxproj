@@ -12,6 +12,7 @@
 		46A161B41EB7FCAE00CB9DAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46A161B21EB7FCAE00CB9DAC /* Main.storyboard */; };
 		46A161B61EB7FCAE00CB9DAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46A161B51EB7FCAE00CB9DAC /* Assets.xcassets */; };
 		46A161B91EB7FCAF00CB9DAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46A161B71EB7FCAF00CB9DAC /* LaunchScreen.storyboard */; };
+		46A161C11EB7FFC100CB9DAC /* Collage_of_Nine_Dogs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46A161C01EB7FFC100CB9DAC /* Collage_of_Nine_Dogs.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		46A161B51EB7FCAE00CB9DAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46A161B81EB7FCAF00CB9DAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46A161BA1EB7FCAF00CB9DAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46A161C01EB7FFC100CB9DAC /* Collage_of_Nine_Dogs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Collage_of_Nine_Dogs.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				46A161AE1EB7FCAE00CB9DAC /* AppDelegate.swift */,
 				46A161B01EB7FCAE00CB9DAC /* ViewController.swift */,
 				46A161B21EB7FCAE00CB9DAC /* Main.storyboard */,
+				46A161C01EB7FFC100CB9DAC /* Collage_of_Nine_Dogs.jpg */,
 				46A161B51EB7FCAE00CB9DAC /* Assets.xcassets */,
 				46A161B71EB7FCAF00CB9DAC /* LaunchScreen.storyboard */,
 				46A161BA1EB7FCAF00CB9DAC /* Info.plist */,
@@ -126,6 +129,7 @@
 				46A161B91EB7FCAF00CB9DAC /* LaunchScreen.storyboard in Resources */,
 				46A161B61EB7FCAE00CB9DAC /* Assets.xcassets in Resources */,
 				46A161B41EB7FCAE00CB9DAC /* Main.storyboard in Resources */,
+				46A161C11EB7FFC100CB9DAC /* Collage_of_Nine_Dogs.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

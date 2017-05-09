@@ -10,6 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var dogYears: UITextField!
+    @IBOutlet var dogResults: UILabel!
+    
+    @IBAction func submitDogYears(_ sender: Any) {
+        
+        let ageInDogYears = Int(dogYears.text!)! * 7
+        
+        dogResults.text = String(ageInDogYears)
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
